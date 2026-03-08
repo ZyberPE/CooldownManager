@@ -1,0 +1,7 @@
+cooldowns:
+  ender_pearl: 15
+  enchanted_golden_apple: 60
+
+messages:
+  ender_pearl: "§cYou must wait {time}s before using another Ender Pearl."
+  enchanted_golden_apple: "§cYou must wait {time}s before eating another Enchanted Golden Apple."
