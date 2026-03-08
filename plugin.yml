@@ -1,0 +1,10 @@
+name: CooldownManager
+main: CooldownManager\Main
+version: 1.0.0
+api: 5.0.0
+author: ZyberPE
+
+permissions:
+  cooldown.bypass:
+    description: Bypass all cooldowns
+    default: false
